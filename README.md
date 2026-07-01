@@ -14,28 +14,37 @@ A simple ATM simulation built using JavaScript. The application allows users to 
 
 ## Technologies Used
 
-* JavaScript (ES6)
+* HTML
+* JavaScript
 
-## Concepts Covered
+## Project Structure
+
+```text
+ATM-Simulation/
+│── index.html
+│── atm.js
+│── README.md
+```
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+4. Follow the on-screen prompts to use the ATM system.
+
+## Learning Objectives
+
+This project demonstrates:
 
 * Variables
 * Functions
 * Arrays
 * Loops
 * Conditional Statements
-* Switch Case
-* User Input
-* Basic Program Logic
+* Switch Statements
+* Browser `prompt()` and `alert()`
 
-## How to Run
+## Author
 
-1. Save the code as `atm.js`.
-2. Run it in a JavaScript environment that supports `prompt()` and `alert()` (such as a browser or online JavaScript playground).
-
-## Future Improvements
-
-* Multiple user accounts
-* PIN change option
-* Fund transfer
-* Mini statement
-* Local storage/database support
+**Humera Firdose**
